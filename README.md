@@ -8,7 +8,7 @@
 🎮 I enjoy video game(roguelikes & Genshin are my favorite).  
 🚴 Fitness, cycling, travel, go hundred different places.  
 
-Working for life
+Work for life, life is the point
 
 **Frontend**
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vuedotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
