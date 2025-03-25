@@ -15,4 +15,4 @@ Working for life
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)  ![next.js](https://img.shields.io/badge/-nextjs-4FC08D?logo=nextdotjs&logoColor=white)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Garyxiwang&show_icons=true&icon_color=0366d6&border_color=0366d6&theme=transparent&hide_title=true&include_all_commits=true&count_private=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Garyxiwang&show_icons=true&icon_color=0366d6&border_color=0366d6&theme=transparent&hide_title=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
