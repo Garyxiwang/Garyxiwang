@@ -11,4 +11,4 @@ Working for life
 - Read my blog to learn more about me.
 - Contact with me by email.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xwang_)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Garyxiwang)](https://github.com/anuraghazra/github-readme-stats)
