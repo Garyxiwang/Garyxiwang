@@ -7,9 +7,9 @@
 🚴 Fitness, cycling, travel, go hundred different places.
 
 
-⌨️ A passionate front-end developer who enjoys coding. 
-🎮 I enjoy video game(roguelikes & Genshin are my favorite). 
-🚴 Fitness, cycling, travel, go hundred different places. 
+⌨️ A passionate front-end developer who enjoys coding.  
+🎮 I enjoy video game(roguelikes & Genshin are my favorite).  
+🚴 Fitness, cycling, travel, go hundred different places.  
 
 Working for life
 
