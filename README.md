@@ -2,6 +2,11 @@
 
 10+ years experienced Frontend Engineer 
 
+⌨️ A passionate front-end developer who enjoys coding.  
+🎮 A dedicated single-player gamer.  
+📷 Becoming a skilled photographer.
+
+
 ⌨️ A passionate front-end developer who enjoys coding.
 🎮 I enjoy video game(roguelikes & Genshin are my favorite).
 🚴 Fitness, cycling, travel, go hundred different places.
