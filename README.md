@@ -1,5 +1,6 @@
 ## Hi I'm Gary Wang 👋
 
+<img style="max-width: 450px" align="right" src="https://github-readme-stats.vercel.app/api?username=Garyxiwang&show_icons=true&icon_color=0366d6&border_color=0366d6&theme=transparent&hide_title=true&include_all_commits=true&count_private=true" alt="vortesnail's github stats"/>
 10+ years experienced Frontend Engineer 
 
 ⌨️ A passionate front-end developer who enjoys coding.  
@@ -14,6 +15,3 @@ Working for life
 **Backend**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)  ![next.js](https://img.shields.io/badge/-nextjs-4FC08D?logo=nextdotjs&logoColor=white)
 
-
-
-<img style="max-width: 450px" align="right" src="https://github-readme-stats.vercel.app/api?username=Garyxiwang&show_icons=true&icon_color=0366d6&border_color=0366d6&theme=transparent&hide_title=true&include_all_commits=true&count_private=true" alt="vortesnail's github stats"/>
